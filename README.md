@@ -10,4 +10,4 @@
 
  ## Links
     
-    * [LinkedIn](https://www.linkedin.com/in/travis-hollins-027520363/ "Travis' Linked In")
+    * [LinkedIn](https://www.linkedin.com/in/travis-hollins-027520363/)
